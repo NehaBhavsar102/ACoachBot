@@ -1,7 +1,7 @@
 The coachbot application works by taking comprehensive and asking you questions based on it.You will write your answers and the application will check your answers with the correct ones,giving you a score.
 It's like having a personal coach to help you study.
 
-![Alt Text](image_url)
+![Alt Text](https://github.com/NehaBhavsar102/ACoachBot/blob/main/ssofcoach.jpg)
 
 
 
